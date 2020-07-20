@@ -1,0 +1,5 @@
+public class a_test {
+    public static void main(String[] args) {
+        System.out.print("a");
+    }
+}
